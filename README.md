@@ -71,4 +71,7 @@ Computer Science student passionate about software development, coding, and buil
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/deepakpandey0053">deepakpandey0053</a></i></p>
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/deepakpandey0053/deepakpandey0053/main/github-contribution-grid-snake.svg)
 
